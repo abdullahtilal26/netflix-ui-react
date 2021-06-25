@@ -3,5 +3,5 @@
 3.open package.json and add "homepage": "https://abdullahtilal26.github.io/netflix-ui-react",
 4.open package.json and under scripts add "predeploy": "npm run build","deploy": "gh-pages -d build"
 5.npm run deploye
-
+https://abdullahtilal26.github.io/netflix-ui-react/
 addd project on github:-> https://www.youtube.com/watch?v=ibNqauPoicg
