@@ -1,0 +1,5 @@
+1.npm install gh-pages --save-dev
+2.git remote add origin https://github.com/abdullahtilal26/netflix-ui-react.git or git remote set-url origin https://github.com/abdullahtilal26/netflix-ui-react.git
+3.open package.json and add "homepage": "https://abdullahtilal26.github.io/netflix-ui-react",
+4.open package.json and under scripts add "predeploy": "npm run build","deploy": "gh-pages -d build"
+5.npm run deploye
